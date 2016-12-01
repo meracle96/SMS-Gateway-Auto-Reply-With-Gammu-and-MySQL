@@ -1,0 +1,85 @@
+These Windows services are started:
+
+   Adobe Acrobat Update Service
+   Alps HID Monitor Service
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CNG Key Isolation
+   COM+ Event System
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Sharing Service
+   DCOM Server Process Launcher
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Diagnostics Tracking Service
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+   Gammu SMSD Service (GammuSMSD)
+   Geolocation Service
+   Group Policy Client
+   HomeGroup Provider
+   HWDeviceService64.exe
+   Intel(R) HD Graphics Control Panel Service
+   IP Helper
+   Local Session Manager
+   Microsoft Windows SMS Router Service.
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NVIDIA Display Driver Service
+   NVIDIA GeForce Experience Service
+   NVIDIA Network Service
+   NVIDIA Streamer Network Service
+   NVIDIA Streamer Service
+   Office Software Protection Platform
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Superfetch
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TeamViewer 11
+   Themes
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Network Inspection Service
+   Windows Defender Service
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Search
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   WWAN AutoConfig
+
+The command completed successfully.
+
